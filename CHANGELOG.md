@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-07)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -44,6 +44,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`1f2b51d`](https://github.com/stdlib-js/stdlib/commit/1f2b51d83c64ae987cb959fb55550b1300039ab0) - **fix:** remove unused eps dependency from beta/skewness build task _(by Philipp Burckhardt)_
 -   [`58636bd`](https://github.com/stdlib-js/stdlib/commit/58636bd810b01e44e6b3f5b987bcfc3da3f53d25) - **bench:** update random value generation [(#6813)](https://github.com/stdlib-js/stdlib/pull/6813) _(by Harsh)_
 -   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
